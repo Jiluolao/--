@@ -1,0 +1,20 @@
+这是今天刚刚发现的技能
+我们做网站，要想要与众不同的话，其中字体是一部分。。。
+下面我就字体带来一个小方法。
+
+有很多字体网站，其中谷歌的Google Fonts是我们一个不错的选择。https://fonts.google.com/（这是官方网站）
+
+使用方法：
+1、访问  Google Fonts 并把列表一直往下翻直到你找到你想要的。你也可以使用左侧的控制栏来过滤结果。
+2、点击“+”(增加)图标旁边的你想要的字体 。
+3、点击页面底部面板的"* Family Selected"按钮（‘*’取决于你选择的字体数量）。
+4、在弹出框中，你可以看到并且复制Google 给你的代码片段保存至你的文本编辑器以便后续使用。
+
+例：
+引入：
+<link href="https://fonts.googleapis.com/css?family=Josefin+Sans" rel="stylesheet">
+在CSS中使用：
+font-family: 'Josefin Sans', sans-serif;
+
+这个方法很简单；
+如果还不明白，请参考原文：https://developer.mozilla.org/zh-CN/docs/Learn/Getting_started_with_the_web/What_will_your_website_look_like
